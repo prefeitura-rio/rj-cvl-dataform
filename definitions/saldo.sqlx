@@ -41,4 +41,4 @@ LEFT JOIN
     ON c.id_secretaria = s.id_secretaria
 LEFT JOIN 
     rj-cvl.adm_contrato_gestao.administracao_unidade AS t 
-    ON h. cod_instituicao = t. cod_unidade;
+    ON h. cod_instituicao = t. cod_unidade
