@@ -1,0 +1,6 @@
+{
+  "name": "rj-cvl-dastaform",
+  "dependencies": {
+    "@dataform/core": "3.0.0"
+  }
+}
